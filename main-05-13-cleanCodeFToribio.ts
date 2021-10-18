@@ -1,7 +1,7 @@
 /**
  * Nombre: Francisco Toribio Respaldo
  * GitHub: frantoribio
- * Fecha: 09/10/2021
+ * Fecha: 18/10/2021
  * Descripción: Programa que devuelve si un número introducido por teclado es primo.
  * Archivo con clean code aplicado
  */
